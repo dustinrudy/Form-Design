@@ -1,0 +1,62 @@
+html {
+	box-sizing: border-box;
+}
+
+.overallbox {
+	background-color: #5BA3D6;
+	width: 1300px;
+	height: 800px;
+}
+
+.inputheading {
+	font-weight: normal;
+	color: white;
+	font-family: sans-serif;
+	margin-left: 30px;
+	padding-top: 20px;
+	font-size: 18px;
+
+}
+
+input[type="text"] {
+	border: 3px solid white;
+	background-color: #5BA3D6;
+	font-weight: normal;
+	color: white;
+	font-family: sans-serif;
+	font-size: 24px;
+}
+
+input[type="email"] {
+	border: 3px solid white;
+	background-color: #5BA3D6;
+	font-weight: normal;
+	color: white;
+	font-family: sans-serif;
+	font-size: 24px; 
+}
+
+form { 
+	margin-left: 30px;
+
+}
+
+textarea {
+	border: 3px solid white;
+	background-color: #5BA3D6;
+	font-weight: normal;
+	color: white;
+	font-family: sans-serif;
+	font-size: 24px;
+
+}
+
+select {
+	border: 2px solid gray;
+	background-color: #5BA3D6;
+	font-weight: normal;
+	color: white;
+	font-family: sans-serif;
+	font-size: 24px;
+	width: 300px;
+}
